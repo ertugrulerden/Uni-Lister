@@ -1,0 +1,57 @@
+body {
+    padding: 20px;
+    background-color: #333333;
+
+
+}
+
+div.container {
+    width: 80%;
+    border: 1px solid #000000;
+    background-color: #333333;
+    padding: 10px;
+    margin: 0;
+}
+
+input {
+    background-color: #EFE1D1;
+}
+
+button {
+    color: #EFE1D1;
+}
+
+align-center {
+    display: flex;
+    align-items: center;
+}
+
+div.centerTitles{
+    display: flex; align-items: center;
+}
+
+#editleSil{
+    margin-top: 10px;
+}
+
+.form-group {
+    color: white;
+}
+
+.hide {
+    display: none;
+}
+
+span.checkedStar {
+    color: orange;
+}
+
+span#star {
+    margin-top: 5px;
+}
+
+span#star:hover {
+    cursor: pointer;
+    color: rgb(155, 101, 1);
+    transition: 0.2s ease;
+}
